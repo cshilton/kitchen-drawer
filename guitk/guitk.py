@@ -1,12 +1,15 @@
 #! /usr/bin/env python
 
-"""Module: guitk.py
+"""
+Module: guitk.py
 Author: Christopher Sean Hilton
   Date: 7-Apr, 2018 1900 EDT
 
 GuiTk is a class that implements a decorator for a python
 function. The decorated function executes as normal but in a gui
 context with a Tkinter::Text() Widget as it's output.
+
+Copyright (C) 2018 Christopher Sean Hilton. All Rights Reserved.
 """
 
 
